@@ -4,7 +4,7 @@ import arvindPortrait from '../assets/arvind.png'
 // Add `portrait: importedImage` to any member to replace the placeholder bust.
 export const team = [
   {
-    name: 'sudhanshu gour.',
+    name: 'Sudhanshu Gour',
     role: 'Content Creator / Video Producer',
     bio: 'Instagram creator with 40K+ followers, specializing in professional video shooting, cinematic content creation and video editing.',
     skills: ['Video Shooting', 'Commercial Shoots', 'Product Shoots', 'Cinematic Reels', 'Video Editing', 'Visual Storytelling'],
@@ -16,7 +16,7 @@ export const team = [
     portrait: portrait01,
   },
   {
-    name: 'kanha gour.',
+    name: 'Kanha Gour',
     role: 'Video Editor · Premiere Pro, After Effects & DaVinci Resolve',
     bio: 'Video editor specializing in professional video production and editing using Premiere Pro, After Effects and DaVinci Resolve, crafting social-first visual content.',
     skills: ['Video Shooting', 'Reels', 'Commercial Content', 'Product Content', 'Editing', 'Creative Direction'],
@@ -27,7 +27,7 @@ export const team = [
     },
   },
   {
-    name: 'mohd. sohail shery.',
+    name: 'Mohd. Sohail Shery',
     role: 'Digital Marketing Executive | SEO, Google Ads & Meta Ads Specialist | E-commerce & Website Development Expert | AI-Driven Growth Strategist',
     roleStyle: { maxWidth: 480, lineHeight: 1.7 },
     bio: 'Experienced social media professional with hands-on experience working with established brands and businesses — including Jaipur News, Sagar Traders and Indore-based brands and businesses.',
@@ -39,7 +39,7 @@ export const team = [
     },
   },
   {
-    name: 'himanshu gour.',
+    name: 'Himanshu Gour',
     role: 'AI Full-Stack Developer · CSE — AI & ML',
     bio: 'AI-focused full-stack developer working across modern web development, AI integration, automation and digital brand building. Building technology that makes modern brands smarter, faster and more scalable.',
     skills: ['Full-Stack Development', 'AI Integration', 'AI Automation', 'LLM Integration', 'Website Development', 'Backend Development', 'API Integration', 'Digital Brand Building', 'Marketing Technology'],
@@ -51,7 +51,7 @@ export const team = [
     },
   },
   {
-    name: 'arvind sen.',
+    name: 'Arvind Sen',
     role: 'Full-Stack Developer · HL Tech, Bhopal',
     bio: 'Full-stack developer with 1+ year of hands-on experience at HL Tech, Bhopal — building modern web applications and scalable digital solutions.',
     skills: ['Frontend Development', 'Backend Development', 'Full-Stack Applications', 'API Integration', 'Database Integration', 'Responsive Web Development', 'Performance Optimization'],
