@@ -21,7 +21,7 @@ export default function TeamMember({ member, index, last }) {
     : { className: 'bust ph' }
 
   return (
-    <Reveal as="article" className="tm" style={last ? { borderBottom: '2px solid var(--ink)' } : undefined}>
+    <Reveal as="article" className="tm" style={last ? { borderBottom: '1px solid rgba(255,255,255,.15)' } : undefined}>
       <div className="tm-i">
         <div className="top">
           <span className="cond">{num}</span>
