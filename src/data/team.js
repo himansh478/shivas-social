@@ -1,5 +1,6 @@
 import portrait01 from '../assets/portrait-01.webp'
 import arvindPortrait from '../assets/arvind.png'
+import himanshPortrait from '../assets/himansh.png'
 
 // Add `portrait: importedImage` to any member to replace the placeholder bust.
 export const team = [
@@ -49,6 +50,7 @@ export const team = [
       whatsapp: 'https://wa.me/919669289659',
       github: 'https://github.com/himansh478',
     },
+    portrait: himanshPortrait,
   },
   {
     name: 'Arvind Sen',
